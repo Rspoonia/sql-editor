@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/sql-editor/static/css/main.0a669ac2.css",
+    "main.js": "/sql-editor/static/js/main.4e10dbbc.js",
+    "static/js/623.e94fade6.chunk.js": "/sql-editor/static/js/623.e94fade6.chunk.js",
+    "static/css/431.74929ca6.chunk.css": "/sql-editor/static/css/431.74929ca6.chunk.css",
+    "static/js/431.f69ccc63.chunk.js": "/sql-editor/static/js/431.f69ccc63.chunk.js",
+    "static/js/787.377507dd.chunk.js": "/sql-editor/static/js/787.377507dd.chunk.js",
+    "static/js/819.cc304c15.chunk.js": "/sql-editor/static/js/819.cc304c15.chunk.js",
+    "static/media/raleway-all-400-normal.woff": "/sql-editor/static/media/raleway-all-400-normal.98e7ff86f2b9a46e19cc.woff",
+    "static/media/raleway-latin-400-normal.woff2": "/sql-editor/static/media/raleway-latin-400-normal.0bdecdd83e78d540c297.woff2",
+    "static/media/raleway-latin-ext-400-normal.woff2": "/sql-editor/static/media/raleway-latin-ext-400-normal.e2c3693083a044bed680.woff2",
+    "static/media/raleway-cyrillic-ext-400-normal.woff2": "/sql-editor/static/media/raleway-cyrillic-ext-400-normal.afca160d632851197a24.woff2",
+    "static/media/raleway-cyrillic-400-normal.woff2": "/sql-editor/static/media/raleway-cyrillic-400-normal.f7d0cc4bf9cf8da4f023.woff2",
+    "static/media/raleway-vietnamese-400-normal.woff2": "/sql-editor/static/media/raleway-vietnamese-400-normal.bb6f51e1b67ec8802d57.woff2",
+    "static/media/logo.svg": "/sql-editor/static/media/logo.8b6f633f27f1d88af91451fe35bb6273.svg",
+    "index.html": "/sql-editor/index.html",
+    "main.0a669ac2.css.map": "/sql-editor/static/css/main.0a669ac2.css.map",
+    "main.4e10dbbc.js.map": "/sql-editor/static/js/main.4e10dbbc.js.map",
+    "623.e94fade6.chunk.js.map": "/sql-editor/static/js/623.e94fade6.chunk.js.map",
+    "431.74929ca6.chunk.css.map": "/sql-editor/static/css/431.74929ca6.chunk.css.map",
+    "431.f69ccc63.chunk.js.map": "/sql-editor/static/js/431.f69ccc63.chunk.js.map",
+    "787.377507dd.chunk.js.map": "/sql-editor/static/js/787.377507dd.chunk.js.map",
+    "819.cc304c15.chunk.js.map": "/sql-editor/static/js/819.cc304c15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a669ac2.css",
+    "static/js/main.4e10dbbc.js"
+  ]
+}
